@@ -1,0 +1,45 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+
+
+}
+
+.numero {
+	font-family: Calibri;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 25px;
+	padding: 10px 20px
+	
+}
+.iva {
+	font-family: Calibri;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 25px;
+	padding: 10px 20px
+}
+.precio {
+	font-family: Calibri;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 25px;
+	padding: 10px 20px
+}
+.noiva {
+	font-family: Calibri;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 25px;
+	padding: 10px 20px
+}
+
